@@ -1,0 +1,10 @@
+C:\TFG\latent_ode_warp\latent_ode_warp\run_models.py
+run_models.py --niters 3000 -n 10 -s 300 --dataset warp --latent-ode --noise-weight 0.01 --viz --extrap
+Experiment 2173
+Epoch 0001 [Test seq (cond on sampled tp)] | Loss 159.029984 | Likelihood -165.125351 | KL fp 2.0323 | FP STD 0.1294|
+KL coef: 0.0
+Train loss (one batch): 121.61273956298828
+Train CE loss (one batch): 0.0
+Test MSE: 0.0334
+Poisson likelihood: 0.0
+CE loss: 0.0

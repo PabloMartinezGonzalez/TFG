@@ -1,0 +1,10 @@
+/home/adrian.perez/Documents/latent_ode/latent_ode/run_models.py
+run_models.py --niters 3000 -n 10 -s 300 --dataset warp --latent-ode --noise-weight 0.01 --viz
+Experiment 23498
+Epoch 0001 [Test seq (cond on sampled tp)] | Loss 652.722595 | Likelihood -682.606628 | KL fp 2.2969 | FP STD 0.0975|
+KL coef: 0.0
+Train loss (one batch): 312.5553894042969
+Train CE loss (one batch): 0.0
+Test MSE: 0.1369
+Poisson likelihood: 0.0
+CE loss: 0.0
