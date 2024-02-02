@@ -1,0 +1,2 @@
+C:\TFG\latent_ode_warp\latent_ode_warp_extra\run_models.py
+run_models.py --niters 3000 -n 40 --dataset warp --latent-ode --noise-weight 0.01 --viz
